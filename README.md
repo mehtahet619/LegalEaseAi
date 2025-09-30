@@ -1,5 +1,5 @@
 <body>
-    <h1>⚖️ AI Lawyer - RAG with DeepSeek R1</h1>
+    <h1>⚖️ Legal Ease AI</h1>
      <p>An AI-powered legal chatbot that leverages Retrieval-Augmented Generation (RAG) with <strong>DeepSeek R1</strong> and <strong>Ollama</strong> for advanced legal reasoning.</p>
     <p>This chatbot is designed to assist users in understanding complex legal documents, retrieving relevant case laws, and providing structured legal insights. By integrating DeepSeek R1, a sophisticated reasoning model, with the RAG framework, AI Lawyer ensures that responses are grounded in factual legal texts, reducing hallucinations and enhancing reliability. The chatbot can process large legal documents, break them down into meaningful sections, and retrieve the most pertinent information to answer user queries accurately.</p>
     
@@ -125,6 +125,7 @@ The app is deployed on **Streamlit**! You can check out the live version and exp
   <a href="https://github.com/mehtahet619" target="_blank">🐙 GitHub</a> |
   <a href="https://www.linkedin.com/in/het-mehta-5b9a47236/" target="_blank">🔗 LinkedIn</a> |
 </p>
+
 
 
 

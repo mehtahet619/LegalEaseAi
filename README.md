@@ -100,7 +100,7 @@ git push origin main
 
 ## 🌐 Deployed Version
 
-The app is deployed on **Streamlit**! You can check out the live version and explore the analysis on your own:[Streamlit App](https://ai-lawyer-rag-with-deepseek.streamlit.app/).
+The app is deployed on **Streamlit**! You can check out the live version and explore the analysis on your own:[Streamlit App]
 
     
   <h2>🎯 Future Improvements</h2>
@@ -123,3 +123,4 @@ The app is deployed on **Streamlit**! You can check out the live version and exp
   <a href="https://github.com/mehtahet619" target="_blank">🐙 GitHub</a> |
   <a href="https://www.linkedin.com/in/het-mehta-5b9a47236/" target="_blank">🔗 LinkedIn</a> |
 </p>
+

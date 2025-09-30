@@ -113,7 +113,9 @@ The app is deployed on **Streamlit**! You can check out the live version and exp
  <h2>📬 Contact Us</h2>
 <p>Have questions or need support? Reach out to us at:</p>
 <ul>
-  <li>📧 <a href="mailto:mehtahet619@gmail.com">mehtahet619@gmail.com</a></li>
+  <li>📧 <a href="mailto:mehtahet619@gmail.com">mehtahet619@gmail.com</a>
+       <a href="mailto:jaythanki703@gmail.com">jaythanki703@gmail.com</a>
+  </li>
 </ul>
 
 ---
@@ -123,5 +125,6 @@ The app is deployed on **Streamlit**! You can check out the live version and exp
   <a href="https://github.com/mehtahet619" target="_blank">🐙 GitHub</a> |
   <a href="https://www.linkedin.com/in/het-mehta-5b9a47236/" target="_blank">🔗 LinkedIn</a> |
 </p>
+
 
 
